@@ -1,0 +1,41 @@
+.footer{
+    background-color: black;
+    color: white;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    float: left;
+    margin: 2% 20%;
+}
+
+h5{
+    display: inline;
+    margin: 2% 35%;
+}
+
+.logos{
+
+   display: flex;
+   justify-content: space-between;
+   height: 60px;
+   width: 100%;
+   margin: 5% 0;
+}
+
+.right img{
+    
+    height: 60px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.right{
+    margin-right: 100px;
+}
+
+.left img{
+    height: 30px;
+    width: 60px;
+}

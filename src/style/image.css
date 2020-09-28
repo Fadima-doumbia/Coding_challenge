@@ -1,0 +1,21 @@
+img{
+    width: 100%;
+}
+.objet{
+    width: 40%;
+    height: auto;
+    margin: 4%;
+    float: left;
+    color: white;
+}
+
+.retour h2{
+    color: white;
+    background-color: gray;
+    height: 70px;
+    width: 100%;
+    margin: -1px 0;
+    text-align: left;
+    padding-left: 100px;
+}
+
